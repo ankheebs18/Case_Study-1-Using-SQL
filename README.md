@@ -2,7 +2,7 @@
 
 Problem Statement:
 
-You are a database administrator. You want to use the data to answer afewquestions about your customers, especially about the sales and profit comingfrom different states, money spent in marketing and various other factorssuchasCOGS (Cost of Goods Sold), budget profit etc. You plan on using theseinsightsto help find out which items are being sold the most. You have beenprovidedwith the sample of the overall customer data due to privacy issues. But youhopethat these samples are enough for you to write fully functioning SQLqueriestohelp answer the questions.
+You are a database administrator. You want to use the data to answer a fewquestions about your customers, especially about the sales and profit comingfrom different states, money spent in marketing and various other factorssuchasCOGS (Cost of Goods Sold), budget profit etc. You plan on using theseinsightsto help find out which items are being sold the most. You have beenprovidedwith the sample of the overall customer data due to privacy issues. But youhopethat these samples are enough for you to write fully functioning SQLqueriestohelp answer the questions.
 
 Dataset:
 The 3 key datasets for this case study:
